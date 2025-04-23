@@ -1,0 +1,42 @@
+_repo: Kadulta_75788
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: S. L.
+    alias: L., S.
+    gutenberg_agent_id: '58147'
+    url: http://www.gutenberg.org/2009/agents/58147
+creator:
+  author:
+    agent_name: Kuprin, A. I. (Aleksandr Ivanovich)
+    aliases:
+    - Куприн, Александр Иванович
+    - Kuprin, Aleksandr Ivanovich
+    - Koeprin, Alexander I.
+    - Kuprin, Alexander
+    - Kouprine, Alexandre
+    birthdate: 1870
+    deathdate: 1938
+    gutenberg_agent_id: '1552'
+    url: http://www.gutenberg.org/2009/agents/1552
+    wikipedia: https://en.wikipedia.org/wiki/Aleksandr_Kuprin
+description: ''
+gutenberg_issued: '2025-04-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75788'
+language: fi
+pgterms:marc905: 20200704053547kuprin
+pgterms:marc906: '1907'
+pgterms:marc907: FI
+production_note: Tapio Riikonen
+publication_note: '  $aHelsinki :$bYrjö Weilin, $c1907.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Russian fiction -- Translations into Finnish'
+- !lcc 'PG'
+- GITenberg
+title: Kadulta
+url: http://www.gutenberg.org/ebooks/75788
