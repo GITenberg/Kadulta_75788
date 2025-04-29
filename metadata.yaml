@@ -6,6 +6,9 @@ contributor:
     alias: L., S.
     gutenberg_agent_id: '58147'
     url: http://www.gutenberg.org/2009/agents/58147
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Kuprin, A. I. (Aleksandr Ivanovich)
@@ -21,6 +24,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1552
     wikipedia: https://en.wikipedia.org/wiki/Aleksandr_Kuprin
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75788#Kadulta
 gutenberg_issued: '2025-04-04'
 gutenberg_type: Text
 identifiers:
